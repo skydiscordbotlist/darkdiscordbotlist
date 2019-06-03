@@ -1,0 +1,2 @@
+# discordbotlist
+Hoşgeldiniz
